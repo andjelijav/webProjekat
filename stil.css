@@ -1,0 +1,119 @@
+body{
+    background-image: url('m.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.l1
+{
+    margin: 0 auto;
+    width: 500px
+}
+
+
+
+.polica
+{
+    display: flex;
+    flex-direction: row;
+    flex:100%;
+}
+
+.knjige
+{
+    display: flex;
+    flex-direction: row;
+    flex:1500%;
+    border:solid peachpuff;
+ 
+
+}
+
+.zanr
+{
+    flex: 100%;
+}
+
+.knjiga
+{
+    display: flex;
+    flex-direction: row;
+    flex:100%;
+    border:solid hotpink;
+}
+label
+{
+    display: flex;
+    flex:100%;
+    width: 150px;
+   
+
+   
+}
+.biblioteka
+{
+
+    display: flex;
+    flex-direction: column;
+    flex:100%;
+    
+}
+
+.dole
+{
+    display: flex;
+    flex-direction: row;
+    flex:100%;
+}
+
+.radiolab
+{
+    display: flex;
+    flex-direction: row;
+}
+
+.kolicinaDiv
+{
+    display: flex;
+    flex-direction: column;
+}
+.levo
+{
+    display: flex;
+    flex-direction: column;
+    flex:100%;
+    margin:auto;
+    width: 50%;
+    
+    padding: 10px;
+    
+
+}
+.ispod
+{
+    display: flex;
+    flex-direction: column;
+    flex:100%;
+    
+    padding: 55px;
+    border: 1px solid black;
+    width: 25%;
+    margin-top: 30px;
+
+    
+
+
+   
+}
+
+.imeBiblioteke, .imeBiblioteke1
+{
+    width: 150px;
+}
+
+.dole1
+{
+    margin-bottom: 15px;
+}
+
